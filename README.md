@@ -5,8 +5,6 @@
 <br />
 Personal project based on React, Gatsby and Wordpress Rest API.
 
-This project is used as a little demonstration of my skills and for evolving my knowledge as a web developer.
-
 You can modify and use this project or certain components if you wish.
 
 For any questions feel free to contact me at marek@matejovic.cz
@@ -96,4 +94,4 @@ A quick look at the top-level files and directories you'll see in my Gatsby proj
 <br />
 <br />
 
-This readme is modified of Gatsby's default starter
+This readme is modified version of the Gatsby's default starter
