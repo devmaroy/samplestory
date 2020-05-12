@@ -62,7 +62,6 @@ A quick look at the top-level files and directories you'll see in my project.
     ├── gatsby-config.js
     ├── gatsby-node.js
     ├── gatsby-ssr.js
-    ├── LICENSE
     ├── package-lock.json
     ├── package.json
     ├── screenshot.png
