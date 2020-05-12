@@ -16,7 +16,7 @@ For any questions feel free to contact me at marek@matejovic.cz
 1.  **Clone from Github.**
 
     ```
-    git clone git@github.com:mmatejovic/samplestory.git
+    git clone git@github.com:devmaroy/samplestory.git
     ```
 
 1.  **Run Gatsby command.**
@@ -89,7 +89,7 @@ A quick look at the top-level files and directories you'll see in my Gatsby proj
 
 <br />
 
-## 🔗 Live Example - [samplestory.netlify.com](samplestory.netlify.com)
+## 🔗 Live Example - [samplestory-mmproj.netlify.com](samplestory-mmproj.netlify.com)
 
 <br />
 <br />
