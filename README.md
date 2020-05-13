@@ -1,5 +1,5 @@
 ![](src/images/logo.svg)
-# **Simple Fitness Blog**
+# **Sample Story**
 
 
 This project is powered by **Gatsby** and **WordPress**. You can modify and use this project or certain components if you wish
@@ -20,7 +20,7 @@ Use these commands to install the dependencies and start the server.
 1. **Clone from Github**
 
     ```
-    $ git clone git@github.com:devmaroy/simplefitnessblog.git
+    $ git clone git@github.com:devmaroy/samplestory.git
     ```
 2. **Install dependencies**
    ```
@@ -116,4 +116,4 @@ A quick look at the top-level files and directories you'll see in my project.
 
 Created by **[@devmaroy](https://twitter.com/devmaroy)** feel free to contact me 
 
-e-mail: **[hello@devmaroy.com](hello@devmaroy.com)****
+e-mail: **[hello@devmaroy.com](hello@devmaroy.com)**
