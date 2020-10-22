@@ -1,9 +1,11 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "samplestory",
   "private": true,
-  "description": "Simple website using gatsby",
+  "license": "UNLICENSED",
+  "keywords": [],
+  "description": "Sample Story",
   "version": "0.1.0",
-  "author": "Marek Matejovic",
+  "author": "Marek Matejovic <hello@devmaroy.com>",
   "dependencies": {
     "babel-plugin-styled-components": "^1.10.0",
     "gatsby": "^2.8.2",
@@ -27,10 +29,6 @@
   "devDependencies": {
     "prettier": "^1.17.1"
   },
-  "keywords": [
-    "gatsby"
-  ],
-  "license": "MIT",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
@@ -40,9 +38,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/devmaroy/samplestory_cu_pe_ga_wpapi_en"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/devmaroy/samplestory_cu_pe_ga_wpapi_en/issues",
+    "email": "bugs@devmaroy.com"
   }
 }
