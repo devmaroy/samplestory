@@ -38,7 +38,6 @@ Use these commands to install the dependencies and start the server.
 
    And also the protocol the website uses (https or http) (WP site with REST API) - **API_PROTOCOL**
 
-   Disquis chat ID (reqister new if you dont have one) - **GATSBY_DISQUS_NAME**
 
 5. **Start it up** `$ gatsby develop` <br>
 
