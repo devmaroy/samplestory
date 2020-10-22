@@ -1,4 +1,4 @@
-<img src="src/images/logo.png" width="100">
+<img src="src/images/gatsby-astronaut.png" width="100">
 
 # **Sample Story**
 
